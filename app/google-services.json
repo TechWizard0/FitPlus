@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "988835782210",
+    "firebase_url": "https://fitplus-97db6.firebaseio.com",
+    "project_id": "fitplus-97db6",
+    "storage_bucket": "fitplus-97db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988835782210:android:13aefcd1a3f84083",
+        "android_client_info": {
+          "package_name": "com.ayushbathrey.fitplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988835782210-p8pqora8rcj9vb2cse4sn0tki1ms9mr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuROO3JsM16eCWEFpOjVRTLw90A-QLakI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
