@@ -18,7 +18,15 @@
         </activity>
         <activity android:name=".loginActivity" />
         <activity android:name=".signupActivity" />
-        <activity android:name=".resetPassword"></activity>
+        <activity android:name=".resetPassword" />
+        <activity android:name=".overview">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity"></activity>
     </application>
 
 </manifest>
